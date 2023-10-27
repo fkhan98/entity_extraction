@@ -1,0 +1,10 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+denies	Status-B
+tobacco,	NotEntity
+alcohol	Alcohol-B
+or	NotEntity
+drug	Drug-B
+use	NotEntity

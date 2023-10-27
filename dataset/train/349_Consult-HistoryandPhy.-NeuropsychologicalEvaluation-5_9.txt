@@ -1,0 +1,6 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+drinks	Status-B
+alcohol	NotEntity
+occasionally.	Frequency-B

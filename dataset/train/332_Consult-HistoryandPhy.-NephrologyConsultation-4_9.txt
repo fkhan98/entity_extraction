@@ -1,0 +1,14 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+He	NotEntity
+is	NotEntity
+a	NotEntity
+non	Status-B
+smoker,	NotEntity
+non	Status-B
+alcoholic,	NotEntity
+and	NotEntity
+not	Status-B
+a	NotEntity
+drug	Drug-B
+user	Drug-I

@@ -1,0 +1,11 @@
+PERSONAL	NotEntity
+HISTORY:	NotEntity
+He	NotEntity
+is	NotEntity
+an	NotEntity
+ex	Status-B
+-smoker.	NotEntity
+Does	Status-B
+not	Status-I
+consume	NotEntity
+alcohol	NotEntity

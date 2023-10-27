@@ -1,0 +1,13 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+is	NotEntity
+a	NotEntity
+non	Status-B
+smoker.	NotEntity
+He	NotEntity
+denies	Status-B
+use	NotEntity
+of	NotEntity
+alcohol	Alcohol-B

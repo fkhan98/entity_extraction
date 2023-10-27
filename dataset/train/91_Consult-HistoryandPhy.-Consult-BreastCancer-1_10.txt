@@ -1,0 +1,13 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+works	Status-B
+as	NotEntity
+a	NotEntity
+school	NotEntity
+teacher	NotEntity
+and	NotEntity
+teaching	NotEntity
+high	NotEntity
+school	NotEntity

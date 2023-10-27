@@ -1,0 +1,12 @@
+{
+ "NotEntity": 0,
+ "Status": 1,
+ "Value": 2,
+ "Tobacco": 3,
+ "Alcohol": 4,
+ "Drug": 5,
+ "Amount": 6,
+ "Occupation": 7,
+ "Frequency": 8,
+ "MaritalStatus": 9
+}

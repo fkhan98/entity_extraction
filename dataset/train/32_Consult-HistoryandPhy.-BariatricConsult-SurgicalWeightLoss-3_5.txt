@@ -1,0 +1,11 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+is	Status-B
+a	Status-I
+single	NotEntity
+mother	NotEntity
+of	NotEntity
+one	Amount-B
+adopted	NotEntity
+child	NotEntity

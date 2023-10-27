@@ -1,0 +1,15 @@
+PERSONAL/SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+is	NotEntity
+right-handed.	NotEntity
+She	NotEntity
+does	Status-B
+not	Status-I
+smoke	NotEntity
+and	NotEntity
+does	Status-B
+not	Status-I
+drink	NotEntity
+alcohol	NotEntity

@@ -1,0 +1,13 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+was	Status-B
+living	NotEntity
+alone	NotEntity
+and	NotEntity
+is	NotEntity
+now	Status-B
+living	NotEntity
+in	NotEntity
+assisted	NotEntity
+living	NotEntity

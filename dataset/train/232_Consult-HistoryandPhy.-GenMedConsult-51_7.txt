@@ -1,0 +1,17 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+is	Status-B
+widowed	NotEntity
+and	NotEntity
+a	NotEntity
+retired	Status-B
+engineer.	NotEntity
+He	NotEntity
+denies	Status-B
+cigarettes	NotEntity
+smoking	Tobacco-B
+or	NotEntity
+alcohol	Alcohol-B
+intake	NotEntity

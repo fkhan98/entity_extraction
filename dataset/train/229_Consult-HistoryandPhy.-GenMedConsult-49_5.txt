@@ -1,0 +1,7 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Negative	Status-B
+for	NotEntity
+smoking	Tobacco-B
+and	NotEntity
+drinking	Alcohol-B

@@ -1,0 +1,17 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+is	NotEntity
+a	NotEntity
+non	Status-B
+smoker	NotEntity
+and	NotEntity
+does	Status-B
+not	Status-I
+use	Status-I
+illegal	NotEntity
+drugs	Drug-B
+.	NotEntity
+Occasionally	Status-B
+drinks	NotEntity

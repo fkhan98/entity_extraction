@@ -1,0 +1,17 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+lives	Status-B
+in	NotEntity
+a	NotEntity
+board	NotEntity
+and	NotEntity
+care.	NotEntity
+No	Status-B
+tobacco,	NotEntity
+alcohol	Alcohol-B
+or	NotEntity
+IV	NotEntity
+drug	Drug-B
+use	NotEntity

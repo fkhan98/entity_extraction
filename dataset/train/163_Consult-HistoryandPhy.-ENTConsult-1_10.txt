@@ -1,0 +1,14 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Some	NotEntity
+minor	Amount-B
+second-hand	NotEntity
+tobacco	Tobacco-B
+exposure.	NotEntity
+There	NotEntity
+are	NotEntity
+no	Status-B
+pets	NotEntity
+in	NotEntity
+the	NotEntity
+home	NotEntity

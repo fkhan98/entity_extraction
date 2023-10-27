@@ -1,0 +1,13 @@
+PERSONAL	NotEntity
+HISTORY:	NotEntity
+Used	Status-B
+to	Status-I
+smoke	NotEntity
+and	NotEntity
+drink	Alcohol-B
+alcohol	NotEntity
+but	NotEntity
+at	NotEntity
+present	NotEntity
+does	NotEntity
+not	NotEntity

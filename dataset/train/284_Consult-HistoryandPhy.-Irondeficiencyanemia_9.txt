@@ -1,0 +1,16 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+has	NotEntity
+no	Status-B
+tobacco	NotEntity
+use.	NotEntity
+She	NotEntity
+has	Status-B
+rare	NotEntity
+alcohol	Alcohol-B
+use.	NotEntity
+No	Status-B
+illicit	NotEntity
+drug	Drug-B
+use	NotEntity

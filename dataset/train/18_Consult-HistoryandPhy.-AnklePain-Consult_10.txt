@@ -1,0 +1,13 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Mother	NotEntity
+appears	NotEntity
+loving	NotEntity
+and	NotEntity
+caring.	NotEntity
+There	NotEntity
+is	NotEntity
+no	NotEntity
+evidence	NotEntity
+of	NotEntity
+abuse	NotEntity

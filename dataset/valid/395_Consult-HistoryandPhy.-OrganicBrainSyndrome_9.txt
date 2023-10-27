@@ -1,0 +1,11 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+No	Status-B
+history	Status-I
+of	Status-I
+any	Status-I
+smoking,	NotEntity
+alcohol	Alcohol-B
+or	NotEntity
+drug	Drug-B
+abuse	NotEntity

@@ -1,0 +1,9 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Negative	Status-B
+for	NotEntity
+illicit	NotEntity
+drugs,	Drug-B
+alcohol,	NotEntity
+and	NotEntity
+tobacco.	Tobacco-B

@@ -1,0 +1,10 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+injured	NotEntity
+worker	NotEntity
+denies	Status-B
+tobacco	NotEntity
+or	NotEntity
+alcohol	Alcohol-B
+consumption	NotEntity

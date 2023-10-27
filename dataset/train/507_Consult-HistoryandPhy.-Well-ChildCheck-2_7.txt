@@ -1,0 +1,12 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Lives	Status-B
+with	NotEntity
+parents.	NotEntity
+There	NotEntity
+is	NotEntity
+no	Status-B
+smoking	NotEntity
+in	NotEntity
+the	NotEntity
+household	NotEntity

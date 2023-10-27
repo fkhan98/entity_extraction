@@ -1,0 +1,12 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Patient	NotEntity
+denies	Status-B
+smoking,	NotEntity
+alcohol	Alcohol-B
+abuse,	NotEntity
+illicit	NotEntity
+drug	Drug-B
+use	NotEntity
+and	NotEntity
+STDs	NotEntity

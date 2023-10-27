@@ -1,0 +1,16 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+does	Status-B
+not	Status-I
+smoke	NotEntity
+and	NotEntity
+she	NotEntity
+does	Status-B
+not	Status-I
+drink.	NotEntity
+She	NotEntity
+lives	Status-B
+with	NotEntity
+her	NotEntity
+daughter	NotEntity

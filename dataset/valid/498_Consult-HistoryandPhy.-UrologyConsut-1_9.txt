@@ -1,0 +1,16 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Divorced	Status-B
+and	NotEntity
+sexually	Status-B
+active	Status-I
+.	NotEntity
+Smokes	Status-B
+1-2	NotEntity
+packs/cigarettes	NotEntity
+per	Frequency-B
+day	Frequency-I
+and	NotEntity
+drinks	Status-B
+alcohol	NotEntity
+socially	Amount-B

@@ -1,0 +1,8 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+denies	Status-B
+smoking	NotEntity
+and	NotEntity
+drinking	Alcohol-B

@@ -1,0 +1,10 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Still	Status-B
+smokes,	NotEntity
+but	NotEntity
+less	NotEntity
+than	NotEntity
+before.	NotEntity
+Drinks	Status-B
+socially	NotEntity

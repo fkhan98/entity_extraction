@@ -1,0 +1,15 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+is	Status-B
+single.	NotEntity
+She	Occupation-B
+is	Occupation-I
+a	Occupation-I
+student.	Occupation-I
+Denies	NotEntity
+tobacco	Tobacco-B
+or	NotEntity
+alcohol	Alcohol-B
+use	NotEntity

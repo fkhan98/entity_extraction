@@ -1,0 +1,7 @@
+PERSONAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+lives	Status-B
+with	NotEntity
+her	NotEntity
+parents	NotEntity

@@ -1,0 +1,14 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+He	NotEntity
+is	NotEntity
+not	Status-B
+a	NotEntity
+smoker.	Tobacco-B
+He	NotEntity
+does	Status-B
+drink	Status-I
+six	NotEntity
+beers	NotEntity
+a	Frequency-B
+day	Frequency-I

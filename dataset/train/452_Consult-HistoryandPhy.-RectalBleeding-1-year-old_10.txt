@@ -1,0 +1,8 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+He	NotEntity
+lives	Status-B
+with	NotEntity
+parents	NotEntity
+and	NotEntity
+siblings	NotEntity

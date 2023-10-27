@@ -1,0 +1,10 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+does	Status-B
+not	Status-I
+smoke	NotEntity
+nor	NotEntity
+drink	Alcohol-B
+alcohol.	Alcohol-I

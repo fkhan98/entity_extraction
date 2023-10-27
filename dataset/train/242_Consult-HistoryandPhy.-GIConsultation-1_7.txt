@@ -1,0 +1,13 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+lives	Status-B
+by	NotEntity
+herself.	NotEntity
+She	NotEntity
+currently	Status-B
+works	NotEntity
+in	NotEntity
+a	NotEntity
+dental	NotEntity
+office	NotEntity

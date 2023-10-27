@@ -1,0 +1,14 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Active	Status-B
+smoker.	NotEntity
+Does	Status-B
+not	Status-I
+consume	NotEntity
+alcohol.	NotEntity
+No	Status-B
+history	Status-I
+of	Status-I
+recreational	NotEntity
+drug	Drug-B
+use.	Drug-I

@@ -1,0 +1,15 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+is	Status-B
+married.	NotEntity
+Lives	Status-B
+with	NotEntity
+her	NotEntity
+husband.	NotEntity
+They	NotEntity
+are	NotEntity
+retired	Status-B
+from	NotEntity
+ABC	NotEntity

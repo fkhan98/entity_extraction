@@ -1,0 +1,15 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+is	Status-B
+married.	NotEntity
+She	NotEntity
+does	Status-B
+not	Status-I
+smoke,	NotEntity
+use	NotEntity
+alcohol	Alcohol-B
+or	NotEntity
+use	NotEntity
+illicit	NotEntity
+drugs.	Drug-B

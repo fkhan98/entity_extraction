@@ -1,0 +1,14 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+is	Status-B
+divorced	NotEntity
+and	NotEntity
+is	Status-B
+a	Status-I
+homemaker.	NotEntity
+No	Status-B
+smoking	NotEntity
+or	NotEntity
+alcohol	Alcohol-B

@@ -1,0 +1,9 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Denies	Status-B
+the	Status-I
+use	Status-I
+of	Status-I
+alcohol	NotEntity
+or	NotEntity
+tobacco	Tobacco-B

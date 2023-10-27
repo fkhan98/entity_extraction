@@ -1,0 +1,13 @@
+SUBSTANCE	NotEntity
+AND	NotEntity
+ALCOHOL	NotEntity
+HISTORY:	NotEntity
+It	NotEntity
+is	NotEntity
+unknown	NotEntity
+with	NotEntity
+the	NotEntity
+exception	NotEntity
+of	NotEntity
+nicotine	Tobacco-B
+use	NotEntity

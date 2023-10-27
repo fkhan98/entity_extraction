@@ -1,0 +1,9 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+is	NotEntity
+accompanied	NotEntity
+with	NotEntity
+his	NotEntity
+wife	NotEntity

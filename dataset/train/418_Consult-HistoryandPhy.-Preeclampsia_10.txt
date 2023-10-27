@@ -1,0 +1,14 @@
+PERSONAL	NotEntity
+HISTORY:	NotEntity
+Nons	Status-B
+moker.	NotEntity
+Does	Status-B
+not	Status-I
+consume	NotEntity
+alcohol.	NotEntity
+No	Status-B
+history	Status-I
+of	Status-I
+recreational	NotEntity
+drug	Drug-B
+use	NotEntity

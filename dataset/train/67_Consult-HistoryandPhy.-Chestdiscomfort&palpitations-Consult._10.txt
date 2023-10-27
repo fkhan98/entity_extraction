@@ -1,0 +1,14 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Denies	Status-B
+using	Status-I
+caffeinated	NotEntity
+beverages,	NotEntity
+alcohol	Alcohol-B
+or	NotEntity
+the	NotEntity
+use	NotEntity
+of	NotEntity
+any	Tobacco-B
+tobacco	Tobacco-I
+products	NotEntity

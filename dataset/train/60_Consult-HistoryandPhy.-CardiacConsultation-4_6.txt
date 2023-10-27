@@ -1,0 +1,15 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+He	NotEntity
+said	NotEntity
+he	NotEntity
+quit	Status-B
+smoking	NotEntity
+20	NotEntity
+years	NotEntity
+ago	NotEntity
+and	NotEntity
+does	Status-B
+not	Status-I
+drink	NotEntity
+alcohol.	Alcohol-B

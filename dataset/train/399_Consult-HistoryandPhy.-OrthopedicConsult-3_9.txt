@@ -1,0 +1,10 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+is	Status-B
+married.	NotEntity
+She	NotEntity
+lives	Status-B
+with	NotEntity
+her	NotEntity
+spouse	NotEntity

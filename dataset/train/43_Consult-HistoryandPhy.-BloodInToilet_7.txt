@@ -1,0 +1,6 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+No	Status-B
+tobacco	NotEntity
+or	NotEntity
+alcohol.	Alcohol-B

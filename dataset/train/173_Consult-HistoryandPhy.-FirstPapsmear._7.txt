@@ -1,0 +1,12 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+is	NotEntity
+a	NotEntity
+non	Status-B
+smoker.	NotEntity
+She	NotEntity
+is	NotEntity
+not	Status-B
+sexually	NotEntity
+active	NotEntity

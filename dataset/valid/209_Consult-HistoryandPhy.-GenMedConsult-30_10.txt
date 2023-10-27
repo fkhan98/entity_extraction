@@ -1,0 +1,13 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+is	Status-B
+a	NotEntity
+Mazatlan,	NotEntity
+Mexico	NotEntity
+resident,	NotEntity
+visiting	NotEntity
+her	NotEntity
+son	NotEntity
+here	NotEntity

@@ -1,0 +1,17 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patent	NotEntity
+moved	NotEntity
+up	NotEntity
+from	NotEntity
+Eugene.	NotEntity
+She	NotEntity
+currently	Status-B
+lives	NotEntity
+up	NotEntity
+here	NotEntity
+and	NotEntity
+works	Occupation-B
+in	Occupation-I
+Portland.	Occupation-I

@@ -1,0 +1,13 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Does	Status-B
+not	Status-I
+smoke,	NotEntity
+but	NotEntity
+drinks	Status-B
+occasionally	NotEntity
+for	NotEntity
+the	NotEntity
+last	NotEntity
+five	NotEntity
+years	NotEntity

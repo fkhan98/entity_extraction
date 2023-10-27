@@ -1,0 +1,15 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	MaritalStatus-B
+is	MaritalStatus-I
+single.	MaritalStatus-I
+She	NotEntity
+drinks	NotEntity
+alcohol	NotEntity
+once	Frequency-B
+a	Frequency-I
+week.	Frequency-I
+She	NotEntity
+does	Status-B
+not	Status-I
+smoke	NotEntity

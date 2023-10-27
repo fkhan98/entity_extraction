@@ -1,0 +1,10 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Parent	NotEntity
+admits	NotEntity
+child	NotEntity
+is	NotEntity
+in	NotEntity
+a	NotEntity
+large	NotEntity
+daycare	NotEntity

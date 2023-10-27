@@ -1,0 +1,14 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+does	Status-B
+not	Status-I
+smoke.	NotEntity
+She	NotEntity
+takes	Alcohol-B
+one	NotEntity
+glass	NotEntity
+of	NotEntity
+wine	NotEntity
+per	Frequency-B
+day.	Frequency-I

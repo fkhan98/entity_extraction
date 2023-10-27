@@ -1,0 +1,17 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+smokes	Status-B
+one	NotEntity
+pack	NotEntity
+of	NotEntity
+cigarettes	NotEntity
+per	Frequency-B
+day	Frequency-I
+and	NotEntity
+takes	Status-B
+drinks	NotEntity
+on	Frequency-B
+social	Frequency-I
+occasions	Frequency-I

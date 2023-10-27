@@ -1,0 +1,17 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+He	Status-B
+is	Status-I
+in	Status-I
+Juvenile	NotEntity
+Hall	NotEntity
+for	NotEntity
+about	NotEntity
+25	NotEntity
+more	NotEntity
+days.	NotEntity
+He	NotEntity
+is	NotEntity
+a	NotEntity
+nons	Status-B
+moker	NotEntity

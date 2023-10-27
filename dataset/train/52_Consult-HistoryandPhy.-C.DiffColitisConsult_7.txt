@@ -1,0 +1,15 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+No	Status-B
+history	Status-I
+of	Status-I
+smoking,	NotEntity
+alcohol	Alcohol-B
+,	NotEntity
+or	NotEntity
+drug	Drug-B
+use.	NotEntity
+She	NotEntity
+lives	Status-B
+at	NotEntity
+home	NotEntity

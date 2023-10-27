@@ -1,0 +1,15 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Alcohol	Alcohol-B
+drinking	Alcohol-I
+history,	NotEntity
+quit	Status-B
+smoking	NotEntity
+about	NotEntity
+30	NotEntity
+years	NotEntity
+ago.	NotEntity
+The	NotEntity
+patient	NotEntity
+is	NotEntity
+married.	MaritalStatus-B

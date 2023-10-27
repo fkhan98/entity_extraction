@@ -1,0 +1,15 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+is	NotEntity
+a	NotEntity
+widow	Status-B
+,	NotEntity
+lives	Status-B
+alone.	NotEntity
+Denies	Status-B
+any	NotEntity
+tobacco	Tobacco-B
+or	NotEntity
+alcohol	Alcohol-B
+use	NotEntity

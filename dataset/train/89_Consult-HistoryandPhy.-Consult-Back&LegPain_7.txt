@@ -1,0 +1,11 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+is	Status-B
+married,	NotEntity
+retired.	Occupation-B
+Denies	NotEntity
+tobacco	Tobacco-B
+or	NotEntity
+ethanol	Alcohol-B
+use	NotEntity

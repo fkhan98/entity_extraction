@@ -1,0 +1,17 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+He	NotEntity
+denies	Status-B
+tobacco	NotEntity
+or	NotEntity
+alcohol.	Alcohol-B
+He	NotEntity
+has	NotEntity
+what	NotEntity
+sounds	NotEntity
+like	NotEntity
+a	NotEntity
+data	Occupation-B
+entry	Occupation-I
+computer	Occupation-I
+job.	Occupation-I

@@ -1,0 +1,8 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Denies	Status-B
+tobacco,	NotEntity
+alcohol	Alcohol-B
+or	NotEntity
+illicit	NotEntity
+drugs.	Drug-B

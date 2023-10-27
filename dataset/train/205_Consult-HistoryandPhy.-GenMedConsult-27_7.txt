@@ -1,0 +1,12 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+has	NotEntity
+been	NotEntity
+residing	Status-B
+at	NotEntity
+South	NotEntity
+Valley	NotEntity
+Care	NotEntity
+Center	NotEntity

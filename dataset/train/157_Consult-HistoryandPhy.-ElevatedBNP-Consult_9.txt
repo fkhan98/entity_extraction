@@ -1,0 +1,8 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+He	NotEntity
+does	Status-B
+not	Status-I
+smoke.	NotEntity
+Drinks	Status-B
+occasionally	NotEntity

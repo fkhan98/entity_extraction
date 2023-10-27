@@ -1,0 +1,12 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Not	NotEntity
+available.	NotEntity
+The	NotEntity
+patient	NotEntity
+lives	Status-B
+at	NotEntity
+a	NotEntity
+skilled	NotEntity
+nursing	NotEntity
+facility	NotEntity

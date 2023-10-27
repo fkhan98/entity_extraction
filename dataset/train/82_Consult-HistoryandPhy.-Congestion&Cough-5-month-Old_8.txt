@@ -1,0 +1,10 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+lives	Status-B
+with	NotEntity
+mom,	NotEntity
+sister,	NotEntity
+and	NotEntity
+her	NotEntity
+grandparent	NotEntity

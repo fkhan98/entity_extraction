@@ -1,0 +1,10 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Includes	Status-B
+tobacco	NotEntity
+use	NotEntity
+as	NotEntity
+well	NotEntity
+as	NotEntity
+alcohol	Alcohol-B
+use	NotEntity

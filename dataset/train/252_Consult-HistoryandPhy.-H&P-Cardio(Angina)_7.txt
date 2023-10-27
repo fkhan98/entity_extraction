@@ -1,0 +1,15 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Patient	NotEntity
+admits	NotEntity
+tobacco	Tobacco-B
+use	Tobacco-I
+She	NotEntity
+relates	NotEntity
+a	NotEntity
+smoking	NotEntity
+history	NotEntity
+of	NotEntity
+40	Amount-B
+pack	Amount-I
+years	Amount-I

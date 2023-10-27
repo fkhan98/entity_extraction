@@ -1,0 +1,17 @@
+PERSONAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+is	NotEntity
+a	NotEntity
+non	Status-B
+smoker.	NotEntity
+Does	Status-B
+not	Status-I
+consume	NotEntity
+alcohol.	NotEntity
+No	Status-B
+history	Status-I
+of	Status-I
+recreational	NotEntity
+drug	Drug-B
+use	NotEntity

@@ -1,0 +1,8 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+is	NotEntity
+a	NotEntity
+nons	Status-B
+moker	NotEntity

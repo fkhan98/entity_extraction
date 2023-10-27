@@ -1,0 +1,16 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Here	NotEntity
+with	NotEntity
+mother	NotEntity
+and	NotEntity
+grandmother,	NotEntity
+lives	Status-B
+at	NotEntity
+home.	NotEntity
+There	NotEntity
+is	NotEntity
+no	NotEntity
+smoking	NotEntity
+at	NotEntity
+home	NotEntity

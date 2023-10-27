@@ -1,0 +1,8 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+lives	Status-B
+with	NotEntity
+his	NotEntity
+wife	NotEntity

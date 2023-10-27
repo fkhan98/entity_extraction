@@ -1,0 +1,17 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Denies	Status-B
+alcohol	NotEntity
+or	NotEntity
+drugs.	Drug-B
+Smokes	NotEntity
+2	Amount-B
+packs	Amount-I
+of	NotEntity
+cigarettes	NotEntity
+per	Frequency-B
+day.	Frequency-I
+Works	NotEntity
+as	NotEntity
+a	NotEntity
+banker	NotEntity

@@ -1,0 +1,16 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+The	NotEntity
+patient	NotEntity
+lives	Status-B
+with	NotEntity
+both	Amount-B
+parents	NotEntity
+and	NotEntity
+no	NotEntity
+siblings.	NotEntity
+There	NotEntity
+are	NotEntity
+smokers	Status-B
+at	NotEntity
+home	NotEntity

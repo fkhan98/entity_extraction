@@ -1,0 +1,17 @@
+PERSONAL	NotEntity
+HISTORY:	NotEntity
+He	NotEntity
+is	Status-B
+married,	Status-I
+nonsmoker,	NotEntity
+does	Status-B
+not	Status-I
+consume	NotEntity
+alcohol,	Alcohol-B
+and	NotEntity
+no	Status-B
+history	Status-I
+of	NotEntity
+recreational	Drug-B
+drug	Drug-I
+use.	Drug-I

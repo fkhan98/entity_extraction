@@ -1,0 +1,8 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+Parents	NotEntity
+do	NotEntity
+smoke	NotEntity
+around	NotEntity
+the	NotEntity
+house	NotEntity

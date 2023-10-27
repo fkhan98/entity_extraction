@@ -1,0 +1,17 @@
+Social	NotEntity
+History:	NotEntity
+No	Status-B
+tobacco	NotEntity
+use,	NotEntity
+occasional	Status-B
+EtOH,	NotEntity
+no	Status-B
+known	Status-I
+drug	NotEntity
+use,	NotEntity
+works	Status-B
+as	NotEntity
+a	NotEntity
+real	NotEntity
+estate	NotEntity
+agent	NotEntity

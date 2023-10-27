@@ -1,0 +1,9 @@
+SOCIAL	NotEntity
+HISTORY:	NotEntity
+She	NotEntity
+does	Status-B
+not	Status-I
+smoke	NotEntity
+or	NotEntity
+drink	Alcohol-B
+alcohol.	Alcohol-I
